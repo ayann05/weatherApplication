@@ -1,16 +1,12 @@
-# weatherapp
+# WeatherApp
+WeatherApp is a simple Flutter application that provides weather information using the OpenWeatherMap API. It allows users to check the current weather, temperature, and other relevant details for a specific location.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Features
+Display the current weather conditions.
+Show the temperature in Celsius.
+Provide information on maximum and minimum temperatures.
+Present wind speed and humidity details.
+# Dependencies
+flutter/material.dart
+intl
+weather
